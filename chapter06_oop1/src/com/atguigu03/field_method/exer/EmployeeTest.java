@@ -19,6 +19,8 @@ public class EmployeeTest {
         employee.birthday.day = 13;
         System.out.println("no = " + employee.no + ",name = " + employee.name +
                 ",age = " + employee.age + ",birthday = [" + employee.birthday + "]");
-        //TODO: 2023年4月18日08:29:58 76-面向对象(基础)-方法的作用与方法的声明
+
+        employee.info();
+        //TODO 2023年4月19日00:45:00 78-面向对象(基础)-属性和方法的整体练习1-4
     }
 }

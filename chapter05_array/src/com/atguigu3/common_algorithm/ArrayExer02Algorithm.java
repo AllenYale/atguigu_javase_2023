@@ -20,7 +20,6 @@ public class ArrayExer02Algorithm {
 //        yang_hui_triangle();
 //        testArrayCopyOrAssign();
         arrayLinerSearch(new int[]{1,2,3,4,19,5}, 4);
-        //TODO: 2023年4月13日08:22:10 70-数组-常见算法操作：查找、冒泡排序、快速排序
     }
 
     public static void yang_hui_triangle(){

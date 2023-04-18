@@ -16,4 +16,10 @@ public class Employee {
     double salary;
     MyDate birthday;//生日
 
+    //java.lang.StackOverflowError
+    //stack 后进先出、每调用一次方法栈桢方式入栈、执行完之后才离开栈，还没离开又有新的方法进入栈。栈大小有限，堆满后溢出。
+    public void info(){
+        info();
+    }
+
 }
