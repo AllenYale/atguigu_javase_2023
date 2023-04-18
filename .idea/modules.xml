@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/atguigu_javase_2023.iml" filepath="$PROJECT_DIR$/atguigu_javase_2023.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter04_idea/chapter04_idea.iml" filepath="$PROJECT_DIR$/chapter04_idea/chapter04_idea.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter05_array/chapter05_array.iml" filepath="$PROJECT_DIR$/chapter05_array/chapter05_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06_oop1/chapter06_oop1.iml" filepath="$PROJECT_DIR$/chapter06_oop1/chapter06_oop1.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter13_generic/chapter13_generic.iml" filepath="$PROJECT_DIR$/chapter13_generic/chapter13_generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter18_jdk8_17newFeature/chapter18_jdk8_17newFeature.iml" filepath="$PROJECT_DIR$/chapter18_jdk8_17newFeature/chapter18_jdk8_17newFeature.iml" />
     </modules>

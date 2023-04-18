@@ -2,6 +2,10 @@ package com.atguigu5.arrays;
 
 import java.util.Arrays;
 
+
+//数组特点：
+// 是有序的、可重复的。一旦初始化，长度确定不可更改。
+//有序指有索引，存取顺序固定。可重复就是element是否可以重复。
 public class ArraysTest {
     public static void main(String[] args) {
         int[] arr1 = new int[]{2,3,5,7,1};
@@ -12,7 +16,6 @@ public class ArraysTest {
 
         //遍历数组
         System.out.println(Arrays.toString(arr1));
-
         //fill every element to xx
 //        Arrays.fill(arr1, 10);
         System.out.println(Arrays.toString(arr1));
