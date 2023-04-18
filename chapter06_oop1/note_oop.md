@@ -17,3 +17,6 @@
 * 默认值：
 属性都有默认值，局部变量都没有默认值（在使用局部变量之前必须显示赋值）。
 
+
+[this is best markdown learning website](https://markdown.com.cn/)
+![this is image test](https://github.com/AllenYale/atguigu_javase_2023/blob/master/chapter06_oop1/Snipaste_2023-04-18_17-01-20.png)
