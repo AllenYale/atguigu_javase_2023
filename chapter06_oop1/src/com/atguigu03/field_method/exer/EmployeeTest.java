@@ -21,6 +21,5 @@ public class EmployeeTest {
                 ",age = " + employee.age + ",birthday = [" + employee.birthday + "]");
 
         employee.info();
-        //TODO 2023年4月19日00:45:00 78-面向对象(基础)-属性和方法的整体练习1-4
     }
 }
