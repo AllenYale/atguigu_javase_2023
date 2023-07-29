@@ -14,12 +14,12 @@ package org.example;
  */
 public class RecursionTest {
     public static void main(String[] args){
-        System.out.println(recursionMultiply(3));
+        System.out.println(recursionMultiply(5));
     }
 
     public static int recursionMultiply(int num){
-        if(num == 1){
-            return num;
+        if(num == 0){
+            return 1;//0的阶乘等于1.
         }
 
         return num * recursionMultiply(--num);
