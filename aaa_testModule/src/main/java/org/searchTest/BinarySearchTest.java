@@ -12,6 +12,7 @@ public class BinarySearchTest {
     public static void main(String[] args) {
         int[] arr = new int[]{1,3,5,6,7,8,11,13,135};
         System.out.println(binarySearch(arr, 11));
+        System.out.println(binarySearch(arr, 11));
     }
 
     //折半查找、二分查找
